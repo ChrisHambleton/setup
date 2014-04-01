@@ -9,7 +9,7 @@
 ##Programs That Should Be Installed Prior to following these instructions
 
 ###Required
-* VS2012 Professional (We will use VS2012 not VS2013)
+* VS2012 Professional (VS2013 will also work)
 
 ###Recommended
 * [TestDriven.net 3](http://testdriven.net/download_release.aspx?LicenceType=Personal)
@@ -201,7 +201,7 @@ You should see a git version, if you don't see anything, you will have to repeat
 
 ##Install IIS Express 7.5
 
-* If you already have a version of IIS Express installed (even if it is >= 7.5) please uninstall it.
+* If you already have a version of IIS Express installed (even if it is >= 7.5) please uninstall it and follow these instructions.
 
 Install iis_express following these steps:
   1. Download the installer from [here](http://www.microsoft.com/en-us/download/confirmation.aspx?id=1038)
