@@ -134,11 +134,10 @@ notepad ~/.gitconfig
 ##Fork the project repositories for the week
 
 1. Login to your account at [github](https://github.com/login)
-2. Search for the username trimbleapril2014: (Username in screenshot is for example purposes only)<br>![Search for trimbleapril2014](http://github.com/trimbleapril2014/setup/raw/master/images/github_search_for_develop_with_passion.png)
-3. Click on the trimbleapril2014 user (screenshot is for example purposes only)<br>![trimbleapril2014 user](http://github.com/trimbleapril2014/setup/raw/master/images/github_developwithpassion_user.png)
-4. Click on the prep repository: ![repository](http://github.com/trimbleapril2014/setup/raw/master/images/github_shawaugp.png)
-5. Click on the fork button to create your own copy of this repository <br>![fork](http://github.com/trimbleapril2014/setup/raw/master/images/github_fork.png)
-6. Repeat steps 2-5 for the app and prep repositories.
+2. Navigate to the following url: http://github.com/trimbleapril2014
+3. Click on the prep repository: ![repository](http://github.com/trimbleapril2014/setup/raw/master/images/github_shawaugp.png)
+4. Click on the fork button to create your own copy of this repository <br>![fork](http://github.com/trimbleapril2014/setup/raw/master/images/github_fork.png)
+5. Repeat steps 2-5 for the app and prep repositories.
 
 ## Checkout your local copies of the code
 
